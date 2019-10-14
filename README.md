@@ -1,6 +1,6 @@
 # Complete Quiz App
 
-  A Quiz application in Flutter with full functionality, Containe range by score and level.
+     A Quiz application in Flutter with full functionality, Containe range by score and level.
 In this app we are using the internal storage to store this information and also the username.
 Additionally we are using the API of opentdb.com to get our data(Questions and Answers).
  
